@@ -24,9 +24,9 @@ deploymentLabels: {}
 podAnnotations: {}
 podLabels: {}
 image:
-  repository: stephaneturquay/metabase-arm64
+  repository: cmosborn/metabase-arm64
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "0.50.28"
   command: []
   pullPolicy: IfNotPresent
   pullSecrets: []
