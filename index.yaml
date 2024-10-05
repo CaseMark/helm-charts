@@ -3,6 +3,23 @@ entries:
   metabase:
   - apiVersion: v1
     appVersion: latest
+    created: "2024-10-05T23:54:27.479312372Z"
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: fe0d5a9ba2cef1f6fa0ba4115cbcf03d76efeba3b8bf3fba8331ee82a66cc8a3
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    maintainers:
+    - email: steven@casemark.com
+      name: lolsborn
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - https://github.com/CaseMark/helm-charts/releases/download/metabase-2.16.11/metabase-2.16.11.tgz
+    version: 2.16.11
+  - apiVersion: v1
+    appVersion: latest
     created: "2024-10-05T22:08:44.866045671Z"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
@@ -35,4 +52,4 @@ entries:
     urls:
     - https://github.com/CaseMark/helm-charts/releases/download/metabase-2.16.9/metabase-2.16.9.tgz
     version: 2.16.9
-generated: "2024-10-05T22:08:44.866056392Z"
+generated: "2024-10-05T23:54:27.479328563Z"
